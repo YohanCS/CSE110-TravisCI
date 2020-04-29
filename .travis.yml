@@ -1,2 +1,4 @@
 language: java
-install: ant deps
+before_install:
+        - sudo apt-get install -y ant
+        - sudo apt-get install -y ant-optional
