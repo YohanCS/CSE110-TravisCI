@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0b43e46-2396-48f0-8c4a-aa8b5e3ce689" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Project110" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bCIbtlkKCtpXLZ2zMvcehrtMET" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path" value="D:\Github\CSE110\Travis CI Lab\src\edu\ucsd\cs110\tests" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.ucsd.cs110.tests" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.edu.ucsd.cs110.tests in Travis CI Lab">
+    <configuration name="TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.temperature.TemperatureConverter" />
+      <module name="Travis CI Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.temperature.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CelsiusTest.testCelsiusToFahrenheit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Travis CI Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
+      <option name="MAIN_CLASS_NAME" value="edu.ucsd.cs110.tests.CelsiusTest" />
+      <option name="METHOD_NAME" value="testCelsiusToFahrenheit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edu.ucsd.cs110.tests in Travis CI Lab" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Travis CI Lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsd.cs110.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.ucsd.cs110.tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.edu.ucsd.cs110.tests in Travis CI Lab" />
+        <item itemvalue="JUnit.CelsiusTest.testCelsiusToFahrenheit" />
+        <item itemvalue="Application.TemperatureConverter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0b43e46-2396-48f0-8c4a-aa8b5e3ce689" name="Default Changelist" comment="" />
+      <created>1588129723565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588129723565</updated>
+      <workItem from="1588129779865" duration="1417000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="75" key="#Project_Structure" timestamp="1588129802377">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="371" y="75" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1588129802377" />
+    <state x="584" y="126" key="#com.intellij.ide.util.MemberChooser" timestamp="1588130098985">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="584" y="126" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1588130098985" />
+    <state x="509" y="192" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1588130837826">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="509" y="192" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1588130837826" />
+    <state x="560" y="157" key="FileChooserDialogImpl" timestamp="1588130821755">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="560" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588130821755" />
+    <state width="941" height="203" key="GridCell.Tab.0.bottom" timestamp="1588131215229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="941" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588131215229" />
+    <state width="941" height="203" key="GridCell.Tab.0.center" timestamp="1588131215229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="941" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588131215229" />
+    <state width="941" height="203" key="GridCell.Tab.0.left" timestamp="1588131215228">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="941" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588131215228" />
+    <state width="941" height="203" key="GridCell.Tab.0.right" timestamp="1588131215229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="941" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588131215229" />
+    <state width="941" height="253" key="GridCell.Tab.1.bottom" timestamp="1588131003004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="941" height="253" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588131003004" />
+    <state width="941" height="253" key="GridCell.Tab.1.center" timestamp="1588131003004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="941" height="253" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588131003004" />
+    <state width="941" height="253" key="GridCell.Tab.1.left" timestamp="1588131003004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="941" height="253" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588131003004" />
+    <state width="941" height="253" key="GridCell.Tab.1.right" timestamp="1588131003004">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="941" height="253" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588131003004" />
+    <state x="508" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588130824917">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="508" y="309" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1588130824917" />
+    <state x="550" y="119" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588130886902">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="550" y="119" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1588130886902" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/TemperatureConverter.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
