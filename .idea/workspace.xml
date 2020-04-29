@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0b43e46-2396-48f0-8c4a-aa8b5e3ce689" name="Default Changelist" comment="" />
+    <list default="true" id="a0b43e46-2396-48f0-8c4a-aa8b5e3ce689" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/temperature/Celsius.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +131,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1588129723565</updated>
-      <workItem from="1588129779865" duration="2035000" />
+      <workItem from="1588129779865" duration="2075000" />
     </task>
     <servers />
   </component>

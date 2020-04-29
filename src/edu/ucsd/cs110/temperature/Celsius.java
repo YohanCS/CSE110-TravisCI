@@ -3,7 +3,7 @@ public class Celsius extends Temperature
 {
     public Celsius(float t)
     {
-        super(t);
+        super(t-1);
     }
 
     @Override
